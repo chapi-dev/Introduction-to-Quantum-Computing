@@ -1,6 +1,6 @@
 # Introduction to Quantum Computing
 
-A comprehensive, beginner-friendly course that takes you from "Hello World" to advanced quantum algorithms — implemented in both **Qiskit (Python)** and **Q# (Microsoft)** for maximum learning.
+A comprehensive, beginner-friendly course that takes you from "Hello World" to advanced quantum algorithms implemented in both **Qiskit (Python)** and **Q# (Microsoft)** for maximum learning.
 
 ## Course Structure
 
